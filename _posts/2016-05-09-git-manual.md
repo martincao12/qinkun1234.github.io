@@ -1,4 +1,16 @@
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
 
 	git clone git@qinkun1234.github.com:qinkun1234/qinkun1234.github.io.git
