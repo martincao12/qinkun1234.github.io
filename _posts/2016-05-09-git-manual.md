@@ -16,4 +16,3 @@
   ➜  ~ subl
 
   it works fine!
-  
