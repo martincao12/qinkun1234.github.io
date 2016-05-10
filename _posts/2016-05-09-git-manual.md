@@ -7,7 +7,7 @@ title: Git manual
 
 	git clone git@qinkun1234.github.com:qinkun1234/qinkun1234.github.io.git
 
-### OSX El Capian with Sublime Text 3
+### OSX El Capitan with Sublime Text 3
 
   	ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
