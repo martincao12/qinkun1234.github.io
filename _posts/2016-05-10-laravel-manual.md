@@ -3,20 +3,10 @@ layout: single
 title: Laravel manual
 ---
 
-### [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
+###
+
+[lumen-api-demo 5.2](https://github.com/liyu001989/lumen-api-demo)
+
+[在线 API](http://lumen-new.lyyw.info/apidoc/)
 
 	git clone git@qinkun1234.github.com:qinkun1234/qinkun1234.github.io.git
-
-### OSX El Capitan with Sublime Text 3
-
-  	ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-
-  ➜  ~ vi ~/.bash_profile
-
-  	export PATH=$PATH:~/usr/local/bin
-
-  ➜  ~ source ~/.bash_profile
-
-  ➜  ~ subl
-
-  it works fine!
