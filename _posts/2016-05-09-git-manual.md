@@ -1,7 +1,10 @@
+```
 ---
 layout: post
 title: Git manual
 ---
+```
+
 
 [Multiple SSH Keys settings for different github account](https://gist.github.com/jexchan/2351996)
 
