@@ -5,12 +5,14 @@ title: Laravel manual
 
 ### Laravel manual
 
-[Token-Based Authentication for AngularJS and Laravel Apps](https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps)
+ryanchenkie
 
-[在线 API](http://lumen-new.lyyw.info/apidoc/)
+ONE [Token-Based Authentication for AngularJS and Laravel Apps ](https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps) 5.1
 
-	git clone git@qinkun1234.github.com:qinkun1234/qinkun1234.github.io.git
+TWO Authenticated User Route [Token-Based Authentication for AngularJS and Laravel Apps](http://ryanchenkie.com/token-based-authentication-for-angularjs-and-laravel-apps/)
 
 ### lumen
 
 [lumen-api-demo 5.2](https://github.com/liyu001989/lumen-api-demo)
+
+[在线 API](http://lumen-new.lyyw.info/apidoc/)
