@@ -1,6 +1,6 @@
 ---
 layout: single
-title: tools
+title: tools-manual
 ---
 
 ### tools
