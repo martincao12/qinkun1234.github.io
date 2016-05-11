@@ -26,17 +26,3 @@ title: Git manual
 
 	11-删除已经存在git跟踪的 .idea目录
 	git rm -r --cached .idea
-
-### OSX El Capitan with Sublime Text 3
-
-  	ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-
-  ➜  ~ vi ~/.bash_profile
-
-  	export PATH=$PATH:~/usr/local/bin
-
-  ➜  ~ source ~/.bash_profile
-
-  ➜  ~ subl
-
-  it works fine!
