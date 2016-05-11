@@ -13,6 +13,12 @@ TWO Authenticated User Route [Token-Based Authentication for AngularJS and Larav
 
 ### lumen
 
-[lumen-api-demo 5.2](https://github.com/liyu001989/lumen-api-demo)
+[Lumen by Laravel first Tutorial](https://www.codetutorial.io/lumen-first-tutorial/)
+
+#### [lumen-api-demo 5.2](https://github.com/liyu001989/lumen-api-demo)
 
 [在线 API](http://lumen-new.lyyw.info/apidoc/)
+
+[bibihub](http://www.bibihub.com/php/lumen-mobile-api-oauth-2-authentication/)
+
+#### [Lumen + Dingo + JWT Auth](https://github.com/dingo/api/issues/746)
