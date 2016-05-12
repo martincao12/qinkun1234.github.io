@@ -3,7 +3,12 @@ layout: single
 title: Laravel manual
 ---
 
+### 环境设置
+
+vi ~/.homestead-56/Homestead.yaml
+
 ### Laravel manual
+
 
 ryanchenkie
 
