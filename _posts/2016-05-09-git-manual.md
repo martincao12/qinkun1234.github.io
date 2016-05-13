@@ -26,3 +26,9 @@ title: Git manual
 
 	11-删除已经存在git跟踪的 .idea目录
 	git rm -r --cached .idea
+
+## git flow
+
+	git checkout master
+	git merge development
+	git push -u origin master

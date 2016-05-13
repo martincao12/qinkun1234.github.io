@@ -16,6 +16,13 @@ ONE [Token-Based Authentication for AngularJS and Laravel Apps ](https://scotch.
 
 TWO Authenticated User Route [Token-Based Authentication for AngularJS and Laravel Apps](http://ryanchenkie.com/token-based-authentication-for-angularjs-and-laravel-apps/)
 
+## laravel5.1
+[dingo-api-demo](https://github.com/huanghua581/dingo-api-demo)
+
+jwt-auth 、短信
+
+github中搜 dingo
+
 ### lumen
 
 [Lumen by Laravel first Tutorial](https://www.codetutorial.io/lumen-first-tutorial/)
