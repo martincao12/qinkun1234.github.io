@@ -3,7 +3,7 @@ layout: single
 title: Laravel manual
 ---
 
-##官方文档
+## 官方文档
 
 [laravel.com 5.1](https://laravel.com/docs/5.1/seeding)
 
@@ -14,7 +14,7 @@ title: Laravel manual
 vi ~/.homestead-56/Homestead.yaml
 
 
-##常用操作
+## 常用操作
 
 php artisan migrate
 
