@@ -19,9 +19,9 @@ vi ~/.homestead-56/Homestead.yaml
 	php artisan migrate
 	php artisan db:seed
 	composer install
+	composer update
 
-### 
- [sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
+####  [sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
 
 ## laravel5.1
 
