@@ -16,12 +16,12 @@ vi ~/.homestead-56/Homestead.yaml
 
 ## 常用操作
 
-php artisan migrate
-
-php artisan db:seed
+	php artisan migrate
+	php artisan db:seed
+	composer install
 
 ### 
-[sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
+ [sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
 
 ## laravel5.1
 
