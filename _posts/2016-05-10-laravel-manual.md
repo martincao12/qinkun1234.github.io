@@ -3,9 +3,25 @@ layout: single
 title: Laravel manual
 ---
 
+##官方文档
+
+[laravel.com 5.1](https://laravel.com/docs/5.1/seeding)
+
+[laravelbook Migrations](http://laravelbook.com/laravel-migrations-managing-databases/)
+
 ### 环境设置
 
 vi ~/.homestead-56/Homestead.yaml
+
+
+##常用操作
+
+php artisan migrate
+
+php artisan db:seed
+
+### 
+[sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
 
 ## laravel5.1
 
