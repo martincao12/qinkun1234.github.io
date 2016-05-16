@@ -20,6 +20,8 @@ vi ~/.homestead-56/Homestead.yaml
 	php artisan db:seed
 	composer install
 	composer update
+	
+	php artisan vendor:publish			生成配置文件
 
 ####  [sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
 
@@ -38,6 +40,18 @@ TWO Authenticated User Route [Token-Based Authentication for AngularJS and Larav
 jwt-auth 、短信
 
 github中搜 dingo
+
+#### Laravel-5-Bootstrap-3-Starter-Site
+[Laravel-5-Bootstrap-3-Starter-Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site/issues/205)
+
+	$ composer dump-autoload
+	$ composer install --no-scripts
+	$ npm install --save-dev
+	$ gulp
+	$ php artisan migrate
+	$ php artisan db:seed
+	$ php artisan key:generate			//重要
+	👍 3  
 
 ## laravel5.2
 
