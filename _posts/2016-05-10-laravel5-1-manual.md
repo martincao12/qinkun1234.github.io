@@ -20,7 +20,7 @@ vi ~/.homestead-56/Homestead.yaml
 	php artisan db:seed
 	composer install
 	composer update
-	
+
 	php artisan vendor:publish			生成配置文件
 
 ####  [sitepoint migrations](http://www.sitepoint.com/laravel-migrations/)
@@ -56,7 +56,7 @@ github中搜 dingo
 	$ php artisan db:seed
 	$ php artisan key:generate			//重要
 	👍 3  
-	
+
 ## laravel5.1  [a] 文档资料
 
 [官方文档](https://laravel.com/docs/5.1)
@@ -66,23 +66,3 @@ github中搜 dingo
 新建指定版本项目:
 
 	composer create-project laravel/laravel blog "5.1.*"
-	
-	
-
-## laravel5.2
-
-廖亮 turtleliangzi[laravel-dingo](https://github.com/turtleliangzi/laravel-dingo)
-
-	Laravel5.2 + dingo api + JWT + swagger + 路由分割，
-
-### lumen
-
-[Lumen by Laravel first Tutorial](https://www.codetutorial.io/lumen-first-tutorial/)
-
-#### [lumen-api-demo 5.2](https://github.com/liyu001989/lumen-api-demo)
-
-[在线 API](http://lumen-new.lyyw.info/apidoc/)
-
-[bibihub](http://www.bibihub.com/php/lumen-mobile-api-oauth-2-authentication/)
-
-#### [Lumen + Dingo + JWT Auth](https://github.com/dingo/api/issues/746)
