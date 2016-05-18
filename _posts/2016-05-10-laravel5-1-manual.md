@@ -3,7 +3,16 @@ layout: single
 title: Laravel5.1 manual
 ---
 
-## 官方文档
+## a 文档资料
+
+[官方文档](https://laravel.com/docs/5.1)
+
+[laravel学院 发行版本说明 差异对比](http://laravelacademy.org/post/9.html)
+
+新建指定版本项目:
+
+	composer create-project laravel/laravel blog "5.1.*"
+
 
 [laravel.com 5.1](https://laravel.com/docs/5.1/seeding)
 
@@ -57,12 +66,3 @@ github中搜 dingo
 	$ php artisan key:generate			//重要
 	👍 3  
 
-## laravel5.1  [a] 文档资料
-
-[官方文档](https://laravel.com/docs/5.1)
-
-[laravel学院 发行版本说明 差异对比](http://laravelacademy.org/post/9.html)
-
-新建指定版本项目:
-
-	composer create-project laravel/laravel blog "5.1.*"
