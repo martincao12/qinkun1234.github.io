@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Laravel manual
+title: Laravel5.1 manual
 ---
 
 ## 官方文档
