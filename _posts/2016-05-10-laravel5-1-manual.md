@@ -13,15 +13,13 @@ title: Laravel5.1 manual
 
 	composer create-project laravel/laravel blog "5.1.*"
 
-
 [laravel.com 5.1](https://laravel.com/docs/5.1/seeding)
 
 [laravelbook Migrations](http://laravelbook.com/laravel-migrations-managing-databases/)
 
 ### 环境设置
 
-vi ~/.homestead-56/Homestead.yaml
-
+	subl 	~/.homestead-56/Homestead.yaml
 
 ## 常用操作
 
