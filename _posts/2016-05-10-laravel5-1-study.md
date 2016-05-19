@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Laravel5.1 manual
+title: Laravel5.1 study
 ---
 
 ## a 文档资料
@@ -63,10 +63,11 @@ github中搜 dingo
 	$ php artisan db:seed
 	$ php artisan key:generate			//重要
 	👍 3  
-	
-#### laravel视频
+
+## laravel视频
 
 [基础教程](https://laravist.com/series/laravel-5-basic)
 
 [稍微深入](https://laravist.com/series/dive-a-little-deep-into-laravel-5)
 
+## laravel学院
