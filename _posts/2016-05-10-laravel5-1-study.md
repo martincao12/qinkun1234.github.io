@@ -66,9 +66,17 @@ github中搜 dingo
 	
 
 ## laravel学院
+
+### 基础教程
+
 [使用Laravel内置组件快速实现注册登录](http://laravelacademy.org/post/1258.html)
+
+### 扩展包
 	
-[JWT实现基于API的用户认证](http://laravelacademy.org/post/3640.html) 	
+[JWT实现基于API的用户认证](http://laravelacademy.org/post/3640.html) 
+
+	middle jwt.auth
+		
 ## jeerf
 [auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
 
