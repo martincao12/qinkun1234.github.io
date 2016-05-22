@@ -63,6 +63,18 @@ github中搜 dingo
 	$ php artisan db:seed
 	$ php artisan key:generate			//重要
 	👍 3  
+	
+
+## laravel学院
+[使用Laravel内置组件快速实现注册登录](http://laravelacademy.org/post/1258.html)
+	
+[JWT实现基于API的用户认证](http://laravelacademy.org/post/3640.html) 	
+## jeerf
+[auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
+
+[auth 5.1.4](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/)
+
+[laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
 
 ## laravel视频
 
