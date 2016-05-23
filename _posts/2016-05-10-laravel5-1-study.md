@@ -71,9 +71,13 @@ github中搜 dingo
 
 [使用Laravel内置组件快速实现注册登录](http://laravelacademy.org/post/1258.html)
 
+[auth/register](http://task51.dev/auth/register)
+
+
 已实现
 
 [SMTP驱动实现邮件发送（含附件和图片）](http://laravelacademy.org/post/1986.html)
+
 
 ### 扩展包
 	
