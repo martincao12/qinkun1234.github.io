@@ -73,10 +73,18 @@ github中搜 dingo
 
 [auth/register](http://task51.dev/auth/register)
 
+[add-new-column-migrate-to-database](http://stackoverflow.com/questions/16791613/add-new-column-migrate-to-database)
+
 
 已实现
 
 [SMTP驱动实现邮件发送（含附件和图片）](http://laravelacademy.org/post/1986.html)
+
+[github登录  auth/github](http://laravelacademy.org/post/1305.html)
+
+[微信开放平台网页登录 未有视频]()
+
+[手机短信]()
 
 
 ### 扩展包
@@ -94,7 +102,7 @@ github中搜 dingo
 
 [auth 5.1.4](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/)
 
-[laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
+重要  traits [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
 
 ## laravel视频
 
