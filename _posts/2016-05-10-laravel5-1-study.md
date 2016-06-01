@@ -102,7 +102,14 @@ github中搜 dingo
 
 [auth 5.1.4](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/)
 
-重要  traits [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
+重要  traits  [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
+
+## laravel5.2登录
+
+web middleware is applied by default since 5.2.31 version of Laravel
+
+[socialite](http://blog.damirmiladinov.com/laravel/laravel-5.2-socialite-facebook-login.html#.V056_ZN97R0)
+
 
 ## laravel视频
 
