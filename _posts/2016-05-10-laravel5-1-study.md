@@ -13,8 +13,9 @@ title: Laravel5.1 study
 ## laravel5.2登录
 
 web middleware is applied by default since 5.2.31 version of Laravel
-
 [socialite](http://blog.damirmiladinov.com/laravel/laravel-5.2-socialite-facebook-login.html#.V056_ZN97R0)
+
+[Laravel5.2+Dingo/API+JWTauth 的坑](http://www.hashcoding.net/2016/04/28/Laravel5-2-Dingo-API-JWTauth-%E7%9A%84%E5%9D%91/)
 
 
 ## laravel视频
