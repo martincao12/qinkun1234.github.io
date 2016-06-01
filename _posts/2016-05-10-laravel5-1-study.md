@@ -3,6 +3,28 @@ layout: single
 title: Laravel5.1 study
 ---
 
+## jeerf
+[auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
+
+[auth 5.1.4](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/)
+
+重要  traits  [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
+
+## laravel5.2登录
+
+web middleware is applied by default since 5.2.31 version of Laravel
+
+[socialite](http://blog.damirmiladinov.com/laravel/laravel-5.2-socialite-facebook-login.html#.V056_ZN97R0)
+
+
+## laravel视频
+
+[基础教程](https://laravist.com/series/laravel-5-basic)
+
+[稍微深入](https://laravist.com/series/dive-a-little-deep-into-laravel-5)
+
+## laravel学院
+
 ## a 文档资料
 
 [官方文档](https://laravel.com/docs/5.1)
@@ -95,26 +117,4 @@ github中搜 dingo
 	
 ### email
 
-	composer require "guzzlehttp/guzzle=~5.0"	
-		
-## jeerf
-[auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
-
-[auth 5.1.4](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/)
-
-重要  traits  [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
-
-## laravel5.2登录
-
-web middleware is applied by default since 5.2.31 version of Laravel
-
-[socialite](http://blog.damirmiladinov.com/laravel/laravel-5.2-socialite-facebook-login.html#.V056_ZN97R0)
-
-
-## laravel视频
-
-[基础教程](https://laravist.com/series/laravel-5-basic)
-
-[稍微深入](https://laravist.com/series/dive-a-little-deep-into-laravel-5)
-
-## laravel学院
+	composer require "guzzlehttp/guzzle=~5.0"
