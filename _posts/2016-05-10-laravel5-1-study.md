@@ -119,3 +119,17 @@ github中搜 dingo
 ### email
 
 	composer require "guzzlehttp/guzzle=~5.0"
+	
+	
+…or create a new repository on the command line
+
+	echo "# 7_wp_njbccwcn" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/jnuc093/7_wp_njbccwcn.git
+	git push -u origin master
+…or push an existing repository from the command line
+
+	git remote add origin https://github.com/jnuc093/7_wp_njbccwcn.git
+	git push -u origin master
