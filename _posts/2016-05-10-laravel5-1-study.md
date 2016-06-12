@@ -10,6 +10,9 @@ title: Laravel5.1 study
 
 重要  traits  [laraveltips 注册与登录](https://laraveltips.wordpress.com/2015/06/15/how-to-make-user-login-and-registration-laravel-5-1/?blogsub=confirming#subscribe-blog)
 
+	$ gem sources --add https://ruby.taobao.org/ --remove https://rubygems.org/
+	gem sources --add https://ruby.taobao.org/ --remove https://rubygems.org/
+
 ## laravel5.2登录
 
 web middleware is applied by default since 5.2.31 version of Laravel
